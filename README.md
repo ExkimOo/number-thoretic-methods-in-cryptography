@@ -13,7 +13,7 @@ Implementation of various asymmetric encryption algorithms:
 Also solved the problem of finding a solution to the Pell's alike equation:
 
 <p style="text-align: center;">
-    <img src="https://latex.codecogs.com/svg.image?x^2+34y^2 \equiv -1\:(mod\:M)" />
+    <img src="https://latex.codecogs.com/png.image?\dpi{110}%20x^2+34y^2%20\equiv%20-1\:(mod\:M)" />
 </p>
 
 
